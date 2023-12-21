@@ -1,0 +1,136 @@
+[
+  {
+    "title": "Munnar",
+    "city": "India",
+    "address": "Kerala",
+    "distance": 300,
+    "price": 999,
+    "maxGroupSize": 10,
+    "desc": "Munnar is a town and hill station located in the Idukki district of the southwestern Indian state of Kerala. Munnar is situated at around 1,600 metres (5,200 ft) above mean sea level,[4] in the Western Ghats mountain range. Munnar is also called the Kashmir of South India and is a popular honeymoon destination.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.avif",
+    "featured": true
+  },
+  {
+    "title": "Phra nang beach, Thailand",
+    "city": "Krabi",
+    "address": "Thailand",
+    "distance": 400,
+    "price": 5000,
+    "maxGroupSize": 8,
+    "desc": "Phra Nang Beach is located in Railay Bay, Krabi, Thailand. It's part of the Phra Nang Peninsula, which also includes Railay Beach and Ton Sai Beach. Railay Beach is known for its limestone cliffs.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img11.avif",
+    "featured": true
+  },
+  {
+    "title": "United Kingdom",
+    "city": "London, UK",
+    "address": "United Kingdom",
+    "distance": 500,
+    "price": 8999,
+    "maxGroupSize": 8,
+    "desc": "London, the capital city of England, is one of the world's most visited cities in terms of international visits. It is home to an array of notable tourist attractions, attracting 20.42 million international visitors in 2018, an additional 27.8 million overnighting domestic tourists in 2017, and 280 million day-trippers in 2015.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img12.avif",
+    "featured": true
+  },
+  {
+    "title": "Maldives",
+    "city": "Male",
+    "address": "Male",
+    "distance": 500,
+    "price": 2500,
+    "maxGroupSize": 8,
+    "desc": "Maldives is a tropical holiday destination in the Indian Ocean. The stunning islands are very relaxed and offer an experience which can best be described as a getaway on a desert island but with high quality accommodation, spectacular food, excellent service and an extensive range of activities.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img13.jpg",
+    "featured": true
+  },
+  {
+    "title": "Tokyo, Japan",
+    "city": "Tokyo",
+    "address": "Japan",
+    "distance": 550,
+    "price": 6500,
+    "maxGroupSize": 8,
+    "desc": "Architecture and culture cultivated through history and tradition. Tokyo is filled with an array of diverse cultures. Among modern buildings, cutting-edge fashion and animations, there are also traditional cultures and historic architecture alive in our daily lives.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img14.jpg",
+    "featured": true
+  },
+  {
+    "title": "Eiffel Tower",
+    "city": "France",
+    "address": "France",
+    "distance": 500,
+    "price": 17500,
+    "maxGroupSize": 8,
+    "desc": "When it comes to natural beauty, France can rival just about any other country on the planet. France's scenery is as diverse as it is beautiful, with the glittering coastlines of the French Riviera, the patchwork fields of the Loire Valley, the snow-capped Alps and centuries old harbor towns of Normandy.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img15.avif",
+    "featured": true
+  },
+  {
+    "title": "Milan",
+    "city": "Italy",
+    "address": "Italy",
+    "distance": 500,
+    "price": 15000,
+    "maxGroupSize": 8,
+    "desc": "As well as fashion, Milan also has a prominent design scene. The Milan Furniture Fair is the largest trade fair of its kind, showcasing furniture and design from all around the world. There are also several design districts that you can visit, including Tortona Design District and the Brera Design District.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img16.avif",
+    "featured": true
+  },
+  {
+    "title": "Dubai",
+    "city": "Dubai",
+    "address": "Dubai",
+    "distance": 500,
+    "price": 5000,
+    "maxGroupSize": 8,
+    "desc": "With stunning architecture, fancy hotels, shopping festivals, majestic skyscrapers, glittering skylines, and giant shopping malls, Dubai is truly a paradise for scores of tourists from around the world. Known to be one of the most progressive regions in the Middle East region, Dubai has undergone a huge transformation.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img17.avif",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
+
+
+
+  
