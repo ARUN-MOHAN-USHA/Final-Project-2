@@ -1,5 +1,6 @@
 import React from 'react'
 import '../styles/about.css'
+import aboutImg from '../assets/images/about.jpeg';
 
 
 const About = () => {
@@ -13,7 +14,7 @@ const About = () => {
   <div className="container">
     <section className='about'>
       <div className="about-image">
-      <img src="https://greatloveart.com/wp-content/uploads/2022/04/Beautiful-Places-In-The-World-wallpaper.jpg" alt="" />
+      <img src={aboutImg} alt=''/>  
       </div>
       <div className="about-content">
         <h2>Booking your dream vacation should be a joy, not a hassle.</h2>
@@ -25,9 +26,6 @@ const About = () => {
   </>
   ) 
 }
-
-
-
 
 export default About
 
