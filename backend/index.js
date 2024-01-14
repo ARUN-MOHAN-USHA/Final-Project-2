@@ -19,7 +19,6 @@ const corsOptions = {
     credentials:true
 }
 
-
 //database connection
 mongoose.set('strictQuery', false);
 const connect = async()=>{
@@ -35,8 +34,6 @@ const connect = async()=>{
         console.log("MongoDB databade connection failed");
     }
 }
-
-
 
 //middleware
 app.use(express.json());
